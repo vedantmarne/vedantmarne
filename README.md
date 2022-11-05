@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedantmarne
 - 👀 I’m interested in JAVA,node.js,react.js
-- 🌱 I’m currently learning node.js,react.js
+- 🌱 I’m currently learning Selenium,API Testing,Performance Testing,node.js,react.js
 
 
 
