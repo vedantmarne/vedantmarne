@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @vedantmarne
-- 👀 I’m interested in JAVA,node.js,react.js
-- 🌱 I’m currently learning Selenium,API Testing,Performance Testing,node.js,react.js
+- 👀 Determined and detail-oriented software test engineer with 2.5 years of experience. 
+- 🌱In my current role, I am focused on automating, improving existing features to increase efficiency, and learning new software testing tools. 
+- 🌱Logical and organized individual with a strong foundation in software testing. 
+- 🌱Ability to translate business requirements into innovative software solutions.
+
 
 
 
