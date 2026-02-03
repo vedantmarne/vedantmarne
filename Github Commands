@@ -1,0 +1,30 @@
+git clone --branch <branch-name> --single-branch <repo-url>
+git clone --branch jenkins-shared-lib --single-branch https://gitlab.com/nanuchi/java-maven-app.git
+
+
+git remote set-url origin https://vedantmarne:glpat-E5C7AFwJvnpsaN7Fygz-@gitlab.com/vedantmarne/jenkins-shared-library.git
+git remote set-url origin https://vedantmarne:glpat-U4BXeEfR_JuyMkCq395M@gitlab.com/vedantmarne/react-nodejs-example.git
+git remote set-url origin https://vedantmarne:glpat-wQgBS-zihrynQ71B_GQu@gitlab.com/vedantmarne/java-app.git
+git remote set-url origin https://vedantmarne:glpat-JzDzyneVLh_yQQW7RHHt@gitlab.com/vedantmarne/developing-with-docker.git
+git remote set-url origin https://vedantmarne:glpat-8xzTraFatxwzNG7z6jS4@gitlab.com/vedantmarne/java-maven-app.git
+git remote set-url origin https://gitlab.com/vedantmarne/online-shop-microservices-deployment.git
+git remote set-url origin https://github.com/vedantmarne/microservices-demo.git
+
+
+git add .
+git commit -m "Initial commit"
+git push origin master
+
+
+git push origin jenkins-jobs --force
+
+
+
+
+git init
+git remote add origin https://github.com/vedantmarne/CypressProject1.git
+git add .
+git commit -m "Initial Cypress automation project"
+git branch -M main
+git push -u origin main
+
